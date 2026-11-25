@@ -6,11 +6,11 @@
 
 <br/>
 
-[![License](https://img.shields.io/github/license/MeViksry/device-viewport-reference?style=for-the-badge&color=2563eb)](LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/MeViksry/device-viewport-reference?style=for-the-badge&color=10b981)](https://github.com/MeViksry/device-viewport-reference/commits)
-[![Stars](https://img.shields.io/github/stars/MeViksry/device-viewport-reference?style=for-the-badge&logo=github&color=f59e0b)](https://github.com/MeViksry/device-viewport-reference/stargazers)
-[![Forks](https://img.shields.io/github/forks/MeViksry/device-viewport-reference?style=for-the-badge&logo=github&color=8b5cf6)](https://github.com/MeViksry/device-viewport-reference/network/members)
-[![Issues](https://img.shields.io/github/issues/MeViksry/device-viewport-reference?style=for-the-badge&color=ef4444)](https://github.com/MeViksry/device-viewport-reference/issues)
+[![License](https://img.shields.io/github/license/MeViksry/DeviceViewportReference?style=for-the-badge&color=2563eb)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/MeViksry/DeviceViewportReference?style=for-the-badge&color=10b981)](https://github.com/MeViksry/DeviceViewportReference/commits)
+[![Stars](https://img.shields.io/github/stars/MeViksry/DeviceViewportReference?style=for-the-badge&logo=github&color=f59e0b)](https://github.com/MeViksry/DeviceViewportReference/stargazers)
+[![Forks](https://img.shields.io/github/forks/MeViksry/DeviceViewportReference?style=for-the-badge&logo=github&color=8b5cf6)](https://github.com/MeViksry/DeviceViewportReference/network/members)
+[![Issues](https://img.shields.io/github/issues/MeViksry/DeviceViewportReference?style=for-the-badge&color=ef4444)](https://github.com/MeViksry/DeviceViewportReference/issues)
 
 ![Devices](https://img.shields.io/badge/devices-82-2563eb?style=for-the-badge)
 ![Platforms](https://img.shields.io/badge/platforms-iOS%20%7C%20Android%20%7C%20macOS%20%7C%20Windows%20%7C%20Console-0ea5e9?style=for-the-badge)
@@ -344,6 +344,6 @@ Released under the [MIT License](LICENSE).
 
 If this reference saved you time, consider leaving a star on the repository.
 
-[![Star this repo](https://img.shields.io/github/stars/MeViksry/device-viewport-reference?style=social)](https://github.com/MeViksry/device-viewport-reference)
+[![Star this repo](https://img.shields.io/github/stars/MeViksry/DeviceViewportReference?style=social)](https://github.com/MeViksry/DeviceViewportReference)
 
 </div>
